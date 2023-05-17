@@ -34,19 +34,31 @@ We splitted the data into 80% training and 20% test sets. We tried SVM with and 
 Weighted F1-score | Accuracy
 ------------ | -------------
     100%     |     100%
+    
+## Random Forest - Without BMI
+Weighted F1-score | Accuracy
+------------ | -------------
+    94.63%     |     94.59%
 
 ## Logistic regression - With BMI
 Weighted F1-score | Accuracy
 ------------ | -------------
     98.32%   |     98.31%
-    
+ 
+## Logistic regression - Without BMI
+Weighted F1-score | Accuracy
+------------ | -------------
+    98.33%   |    98.31%
+ 
  ## SVM - With BMI
 Weighted F1-score | Accuracy
 ------------ | -------------
-    96.91%%  |     98.31%
+    96.91%   |     98.31%
 
-
-
+## SVM - Without BMI
+Weighted F1-score | Accuracy
+------------ | -------------
+    96.21%   |     98.12%
 
 
 
