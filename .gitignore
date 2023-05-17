@@ -1,0 +1,6 @@
+__pycache__
+
+body_level_classification_train.csv
+*.csv
+*.pkl
+*.txt
